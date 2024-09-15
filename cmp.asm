@@ -1,4 +1,4 @@
-; in this code we will be seeing what does cmp command does in assembly 
+; in this code we will be seeing what does cmp command does in assembly for unsigned values
 
 [org 100h]
     mov ax, 10
