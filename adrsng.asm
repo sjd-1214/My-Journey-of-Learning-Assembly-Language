@@ -1,3 +1,4 @@
+; register indirect addressing
 [org 0x0100]
     
     num1: dw 5,10,15,0
