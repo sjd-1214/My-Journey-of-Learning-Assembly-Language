@@ -1,5 +1,5 @@
 [org 0x0100]
-    nums: dw  0, 5, 4, 8, 7, 3, 6, 9, 2, 1  ; Array with 10 elements
+    nums: dw  0, 5, 4, 8, 7, 3, 6, 9, 2, 1  
     isSwap: db 0
 
 start: 
