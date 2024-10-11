@@ -63,3 +63,13 @@ To work with this example, you will need an assembler for compiling the assembly
 - **Manage Registers**: Be aware of register usage to avoid accidental overwrites, particularly when functions are nested.
 
 Organizing tasks into functions helps in developing cleaner and more understandable assembly code, especially for larger projects or when implementing algorithms like Bubble Sort.
+
+## Contact
+
+Need assistance or further explanation about the implementation of Circular and Linear Queues? Feel free to reach out! I offer personal help with coding problems, and further detailed explanations, including code walkthroughs. Please note that assistance may be **paid**.
+
+📧 Contact me at: **[sjdgithub1214@gmail.com](mailto:sjdgithub1214@gmail.com)**
+
+---
+
+Thank you for exploring Queues! 🚀 Happy Coding! 😊
